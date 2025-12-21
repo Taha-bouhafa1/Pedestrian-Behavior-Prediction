@@ -1,10 +1,20 @@
-# AI-Based Vision System for Pedestrian Crossing Behavior Recognition
+<h1 align="center">
+  <img
+    src="https://github.com/Taha-bouhafa1/Pedestrian-Behavior-Prediction/raw/main/Gemini_Generated_Image_5ak14w5ak14w5ak1-removebg-preview.png"
+    alt="CivicVision Logo"
+    width="60"
+    style="vertical-align: middle; margin-right: 12px;"
+  />
+  AI-Based Vision System for Pedestrian Crossing Behavior Recognition
+</h1>
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
-![React](https://img.shields.io/badge/Frontend-React-blueviolet)
-![License](https://img.shields.io/badge/License-MIT-grey)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue" />
+  <img src="https://img.shields.io/badge/TensorFlow-2.x-orange" />
+  <img src="https://img.shields.io/badge/Frontend-React-blueviolet" />
+  <img src="https://img.shields.io/badge/License-MIT-grey" />
+</p>
 
 **CivicVision** is an embedded computer vision system designed for intelligent transportation systems (ITS) and autonomous vehicle safety. This project implements a Deep Learning framework to detect pedestrians and predict their crossing intention in real-time by analyzing spatio-temporal features (body language, gaze, and action) using an Inflated 3D ConvNet (I3D) architecture.
 
