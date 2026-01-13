@@ -131,6 +131,23 @@ Real-Time Metrics: Displays system latency, inference FPS, and instantaneous cro
 
 Dynamic Visualization: Renders bounding boxes and status indicators overlaying the video feed.
 
+---
+
+## Citation
+
+```bibtex
+@misc{bouhafa2025civicvision,
+  author       = {Taha Bouhafa},
+  title        = {CivicVision: AI-Based Vision System for Pedestrian Crossing Behavior Recognition},
+  year         = {2025},
+  institution  = {Abdelmalek Essaadi University, National School of Applied Sciences of Tétouan},
+  supervisor   = {Prof. Aghzout Otman},
+  howpublished = {\url{https://github.com/Taha-bouhafa1/Pedestrian-Behavior-Prediction}},
+  note         = {Computer Vision Project}
+}
+```
+
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
 
