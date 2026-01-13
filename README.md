@@ -22,6 +22,18 @@
 
 ## System Demonstration
 
+<div align="center">
+  <img
+    src="https://github.com/Taha-bouhafa1/Pedestrian-Behavior-Prediction/raw/main/civicvision.png"
+    alt="CivicVision Demo"
+    width="85%"
+  />
+  <br/>
+  <em>Real-time CivicVision dashboard and pedestrian behavior prediction.</em>
+</div>
+
+<br/>
+
 To view the system in operation, including the real-time inference dashboard and decision-making engine, please refer to the demonstration video below:
 
 <div align="center">
@@ -29,6 +41,7 @@ To view the system in operation, including the real-time inference dashboard and
   <br/>
   <em>If the video does not play automatically, please <a href="https://github.com/Taha-bouhafa1/Pedestrian-Behavior-Prediction/blob/main/Screen%20Recording%202025-12-17%20044054.mp4">click here to download it</a>.</em>
 </div>
+
 
 ---
 
